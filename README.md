@@ -20,7 +20,7 @@ It contains my learning path, notes, projects, and free resources.
 - **Data Handling & Analysis:**  
   - Pandas & NumPy: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
   - Visualization: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
-  - SQL Basics: [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
+  - SQL Basics: [Mode Analytics SQL Tutorial](https://www.youtube.com/watch?v=hlGoQC332VM&t=501s)
 
 **Mini Projects:**  
 - Data cleaning + analysis on Kaggle datasets  
@@ -33,7 +33,7 @@ It contains my learning path, notes, projects, and free resources.
 **Topics & Resources**
 - Regression, Logistic Regression, Naive Bayes, Decision Trees, Ensemble Learning, Unsupervised Learning
   - [Live 0-100 Complete ML & MLOps Course – Classical ML Modules](#)  
-  - Free Reading: [Scikit-Learn Documentation Tutorials](https://scikit-learn.org/stable/tutorial/index.html)  
+  
 
 **Mini Projects:**  
 - Retail Price Optimization (Course Project)  
@@ -47,9 +47,9 @@ It contains my learning path, notes, projects, and free resources.
 
 **Topics & Resources**
 - MLP, CNN, RNN/LSTM/GRU, Transfer Learning, Hyperparameter Tuning
-  - Free Course: [DeepLearning.AI – Neural Networks & Deep Learning (Coursera, Audit)](https://www.coursera.org/learn/neural-networks-deep-learning)  
+  - Free Course: https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
   - Free Practice: [Kaggle – Deep Learning Micro-Course](https://www.kaggle.com/learn/deep-learning)  
-  - GitHub Resource: [Deep Learning Projects](https://github.com/PacktPublishing/Deep-Learning-with-Python-Second-Edition)
+  - GitHub Resource: After complete - github project for deep learning
 
 **Mini Projects:**  
 - MNIST handwritten digit recognition  
@@ -62,8 +62,8 @@ It contains my learning path, notes, projects, and free resources.
 
 **Topics & Resources**
 - Text preprocessing, Word Embeddings, Transformers (BERT, GPT), Fine-tuning
-  - Free Course: [Hugging Face Transformers Course](https://huggingface.co/course/chapter1)  
-  - Free Practice: [Kaggle NLP Challenges](https://www.kaggle.com/competitions?search=nlp)  
+  - Free Course for transformer:https://www.youtube.com/watch?v=BjRVS2wTtcA&list=PLkBMe2eZMRQ2VKEtoL0GVUrNzEiXfgj07 
+  - Free Course for NLP : https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn 
   - GitHub Resource: [Hugging Face NLP Examples](https://github.com/huggingface/transformers/tree/main/examples/pytorch)  
 
 **Mini Projects:**  
@@ -77,9 +77,7 @@ It contains my learning path, notes, projects, and free resources.
 
 **Topics & Resources**
 - GANs basics, Image Generation, Prompt Engineering
-  - Free Tutorials: [Microsoft Generative AI Tutorials](https://learn.microsoft.com/en-us/training/generative-ai/)  
-  - Free Hands-on GAN Practice: [TensorFlow GAN Tutorial](https://www.tensorflow.org/gan/tutorials)  
-  - GitHub Resource: [GAN Projects](https://github.com/eriklindernoren/Keras-GAN)  
+ 
 
 **Mini Projects:**  
 - AI image generator from text prompts → [Hugging Face Spaces](https://huggingface.co/spaces)  
