@@ -18,8 +18,8 @@ It contains my learning path, notes, projects, and free resources.
   - Probability & Statistics: [Khan Academy – Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)  
   - Calculus Basics: [Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1)  
 - **Data Handling & Analysis:**  
-  - Pandas & NumPy: [Kaggle Learn – Python, Pandas, NumPy](https://www.kaggle.com/learn/pandas)  
-  - Visualization: [Kaggle Learn – Data Visualization](https://www.kaggle.com/learn/data-visualization)  
+  - Pandas & NumPy: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
+  - Visualization: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
   - SQL Basics: [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
 
 **Mini Projects:**  
