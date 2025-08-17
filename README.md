@@ -12,15 +12,17 @@ It contains my learning path, notes, projects, and free resources.
 ### Topics & Resources
 - **Python Basics:**  
   - [Live 0-100 Complete ML & MLOps Course – Python Programming Fundamentals](#) (Included in the course)  
-  - Practice: [HackerRank Python Practice](https://www.hackerrank.com/domains/tutorials/10-days-of-python)  
+  - Practice: 
 - **Mathematics for ML:**  
-  - Linear Algebra: [3Blue1Brown – Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
-  - Probability & Statistics: [Khan Academy – Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)  
-  - Calculus Basics: [Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1)  
+  - Linear Algebra: 
+  - Probability & Statistics: 
+  - Calculus Basics:
+  - all this topic in this :[https://harkirat.classx.co.in/new-courses/8/content?activeTab=Content ]  
 - **Data Handling & Analysis:**  
-  - Pandas & NumPy: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
-  - Visualization: (https://www.youtube.com/watch?v=GPVsHOlRBBI&t=7900s)
-  - SQL Basics: [Mode Analytics SQL Tutorial](https://www.youtube.com/watch?v=hlGoQC332VM&t=501s)
+  - Pandas & NumPy: 
+  - Visualization: 
+  - SQL Basics:
+  -  all topics are covered in this
 
 **Mini Projects:**  
 - Data cleaning + analysis on Kaggle datasets  
